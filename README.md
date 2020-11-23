@@ -1,7 +1,7 @@
 <img src="metadata/hello.gif" width="30">Hello World, I am **codenamewei**.<br />
 
 <p align="center">
-  <img src="metadata/image.gif">
+  <img width="600" height="450" src="metadata/image.gif">
 </p>  
 
 <!--
