@@ -1,4 +1,8 @@
-### Hi there 👋
+<img src="metadata/hello.gif" width="30">Hello World, I am **codenamewei**.<br />
+
+<p align="center">
+  <img src="metadata/image.gif">
+</p>  
 
 <!--
 **codenamewei/codenamewei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+About Me
+My Work
 -->
