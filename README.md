@@ -1,8 +1,6 @@
 <img src="metadata/hello.gif" width="30">Hello World, I am **codenamewei**.<br />
 
-
-
-### I do 
+I do 
 - **Machine Learning 	:computer:**
 - **Deep Learning :vhs:**
 - **Backend Development in Python :snake:, Java :coffee:**
