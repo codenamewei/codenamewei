@@ -1,14 +1,17 @@
 <img src="metadata/hello.gif" width="30">Hello World, I am **codenamewei**.<br />
 
-<p align="center">
-  <img width="600" height="450" src="metadata/image.gif">
-</p>  
 
 
 ### I do 
 - **Machine Learning 	:computer:**
 - **Deep Learning :vhs:**
 - **Backend Development in Python :snake:, Java :coffee:**
+
+
+<p align="center">
+  <img width="600" height="450" src="metadata/image.gif">
+</p>  
+
 
 <!--
 **codenamewei/codenamewei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
