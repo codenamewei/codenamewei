@@ -1,4 +1,10 @@
+
+
+
 <img src="metadata/hello.gif" width="30">Hello World, I am **codenamewei**.<br />
+
+[![codenamewei's GitHub stats](https://github-readme-stats.vercel.app/api?username=codenamewei)](https://github.com/codenamewei/github-readme-stats)
+
 
 I do 
 - **Machine Learning 	:computer:**
@@ -6,7 +12,7 @@ I do
 - **Backend Development in Python :snake:, Java :coffee:**
 
 
-<p align="center">
+<p align="left">
   <img width="600" height="450" src="metadata/image.gif">
 </p>  
 
