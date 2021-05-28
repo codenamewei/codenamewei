@@ -13,7 +13,7 @@ I do
 
 
 <p align="left">
-  <img width="600" height="450" src="metadata/image.gif">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 </p>  
 
 
