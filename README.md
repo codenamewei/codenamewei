@@ -16,6 +16,7 @@
 
 
 ### 🗂️ Latest Blog Posts
+- [Github Top 5 Bag of Tricks](https://codenamewei.medium.com/github-top-5-bag-of-tricks-4cecb4cd3dbb)
 - [NLP Review Analysis (Part 2 — Model Serving on Digital Ocean)](https://medium.datadriveninvestor.com/nlp-review-analysis-part-2-model-serving-on-digital-ocean-a76d296eb53c)
 - [NLP Review Analysis (Part 1 — Model Training)](https://medium.datadriveninvestor.com/nlp-review-analysis-part-1-model-training-531f7f470b87)
 - [Awesome Data Science Resources](https://codenamewei.medium.com/awesome-data-science-resources-21fb0bb63870)
