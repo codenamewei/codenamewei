@@ -34,7 +34,7 @@
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 
-**Dependency Manager**
+**Dependency Managers**
 
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)
 ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache)
