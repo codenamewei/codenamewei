@@ -107,7 +107,8 @@
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket)\
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket)
+![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence)\
 ![Vertx](https://img.shields.io/badge/-Vertx-05122A?style=flat&logo=vertx)
 ![UiPath](https://img.shields.io/badge/-UiPath-05122A?style=flat&logo=uipath)
 
