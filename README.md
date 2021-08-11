@@ -54,7 +54,6 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)
 ![Deeplearning4j](https://img.shields.io/badge/-Deeplearning4j-05122A?style=flat&logo=dl4j)
 
-
 **Deployment**
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
@@ -103,6 +102,11 @@
 ![Centos](https://img.shields.io/badge/-Centos-05122A?style=flat&logo=centos)
 ![Mac](https://img.shields.io/badge/-Mac-05122A?style=flat&logo=apple)
   
+**Project Management**
+  
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)
+![Teamwork](https://img.shields.io/badge/-Teamwork-05122A?style=flat&logo=teamwork)  
+  
 **Others**
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
@@ -111,8 +115,6 @@
 ![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence)\
 ![Vertx](https://img.shields.io/badge/-Vertx-05122A?style=flat&logo=vertx)
 ![UiPath](https://img.shields.io/badge/-UiPath-05122A?style=flat&logo=uipath)
-
-
 
 </details>
 
