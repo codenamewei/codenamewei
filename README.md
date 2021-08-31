@@ -14,6 +14,7 @@
 
 
 ### 🗂️ Latest Blog Posts
+- [Access remote code in a breeze with JupyterLab via SSH](https://towardsdatascience.com/access-remote-code-in-a-breeze-with-jupyterlab-via-ssh-8c6a9ffaaa8c)
 - [The practical strategies to deliver an effective technical presentation](https://codenamewei.medium.com/the-practical-strategies-to-deliver-an-effective-technical-presentation-53a48b11c74c)
 - [3 Simple Steps to Build Classifai Data Annotation Tool from Source](https://medium.com/classifai-ai/3-simple-steps-to-build-classifai-data-annotation-tool-from-source-904c576c177c)
 - [Github Top 5 Bag of Tricks](https://codenamewei.medium.com/github-top-5-bag-of-tricks-4cecb4cd3dbb)
