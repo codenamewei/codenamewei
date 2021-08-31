@@ -19,7 +19,6 @@
 - [3 Simple Steps to Build Classifai Data Annotation Tool from Source](https://medium.com/classifai-ai/3-simple-steps-to-build-classifai-data-annotation-tool-from-source-904c576c177c)
 - [Github Top 5 Bag of Tricks](https://codenamewei.medium.com/github-top-5-bag-of-tricks-4cecb4cd3dbb)
 - [NLP Review Analysis (Part 2 — Model Serving on Digital Ocean)](https://medium.datadriveninvestor.com/nlp-review-analysis-part-2-model-serving-on-digital-ocean-a76d296eb53c)
-- [NLP Review Analysis (Part 1 — Model Training)](https://medium.datadriveninvestor.com/nlp-review-analysis-part-1-model-training-531f7f470b87)
 
 ### 🧰 Tools
 
