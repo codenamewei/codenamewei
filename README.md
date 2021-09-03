@@ -128,8 +128,9 @@
 
 ### 📩 Connect With Me
 
-<p align="center">
+<p align="center"> 
 <a href="https://www.linkedin.com/in/codenamewei"><img src="https://img.shields.io/badge/-codenamewei-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/codenamewei_"><img src="https://img.shields.io/badge/-@codenamewei__-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="mailto:codenamewei@gmail.com"><img src="https://img.shields.io/badge/-codenamewei@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
