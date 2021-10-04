@@ -38,6 +38,7 @@
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)
 ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache)
 ![HomeBrew](https://img.shields.io/badge/-HomeBrew-05122A?style=flat&logo=homebrew)
+![Chocolatey](https://img.shields.io/badge/-Chocolatey-05122A?style=flat&logo=chocolatey)
 
 **Data Science Libraries and Tools**
 
@@ -70,7 +71,12 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 
-**Continuous Integration**
+**Automation**
+  
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)
+![UiPath](https://img.shields.io/badge/-UiPath-05122A?style=flat&logo=uipath)
+  
+**DevOps**
 
 ![Github Actions](https://img.shields.io/badge/-GithubActions-05122A?style=flat&logo=github)
 ![Sonar Cloud](https://img.shields.io/badge/-SonarCloud-05122A?style=flat&logo=sonar)
@@ -82,6 +88,20 @@
 ![Intellij](https://img.shields.io/badge/-Intellij-05122A?style=flat&logo=jetbrains)
 ![Jupyter Lab](https://img.shields.io/badge/-Jupyter%20Lab-05122A?style=flat&logo=jupyter)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab)
+![R Studio](https://img.shields.io/badge/-R%20Studio-05122A?style=flat&logo=rstudio)
+
+**Operating Systems**
+  
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=microsoft)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Centos](https://img.shields.io/badge/-Centos-05122A?style=flat&logo=centos)
+![Mac](https://img.shields.io/badge/-Mac-05122A?style=flat&logo=apple)
+  
+**Code Versioning**
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket)
 
 **Softwares**
   
@@ -92,13 +112,6 @@
 ![Hubspot](https://img.shields.io/badge/-Hubspot-05122A?style=flat&logo=hubspot)
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)
 ![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)
-
-**Operating Systems**
-  
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=microsoft)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Centos](https://img.shields.io/badge/-Centos-05122A?style=flat&logo=centos)
-![Mac](https://img.shields.io/badge/-Mac-05122A?style=flat&logo=apple)
   
 **Project Management**
   
@@ -107,12 +120,9 @@
   
 **Others**
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket)
 ![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence)\
 ![Vertx](https://img.shields.io/badge/-Vertx-05122A?style=flat&logo=vertx)
-![UiPath](https://img.shields.io/badge/-UiPath-05122A?style=flat&logo=uipath)
+
 
 </details>
 
