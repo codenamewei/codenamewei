@@ -128,6 +128,8 @@
 
 ### 📩 Connect With Me
 
+Reach out if you have anything to ask or would like to discuss business opportunities surrounding technology
+
 <p align="center"> 
 <a href="https://www.linkedin.com/in/codenamewei"><img src="https://img.shields.io/badge/-codenamewei-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/codenamewei_"><img src="https://img.shields.io/badge/-@codenamewei__-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
