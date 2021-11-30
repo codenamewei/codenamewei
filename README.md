@@ -14,11 +14,11 @@
 
 
 ### 🗂️ Latest Blog Posts
+- [The Perks of using Jupyter Notebook in VS Code](https://medium.com/geekculture/the-perks-of-using-jupyter-notebook-in-vs-code-c68c6a022a9e?sk=b7fd0ccdb14523360fcc8c22a848a726)
 - [A Step-by-step Walkthrough to Create Your First SSH Config File](https://betterprogramming.pub/a-step-by-step-walkthrough-to-create-your-first-ssh-config-file-f01267b4eacb?sk=41a27dff0cae894617024ea6a0aad25a)
 - [Upskill as a working adult in the data science field](https://towardsdatascience.com/upskill-as-a-working-adult-in-the-data-science-field-c51da3d07006?sk=536f7b22ff843149075c56aabcc0c533)
 - [Displaying visuals with Markdown](https://medium.com/geekculture/displaying-visuals-with-markdown-c39f2495e146)
 - [Access remote code in a breeze with JupyterLab via SSH](https://towardsdatascience.com/access-remote-code-in-a-breeze-with-jupyterlab-via-ssh-8c6a9ffaaa8c)
-- [The practical strategies to deliver an effective technical presentation](https://codenamewei.medium.com/the-practical-strategies-to-deliver-an-effective-technical-presentation-53a48b11c74c)
 
 ### 🧰 Tools
 
