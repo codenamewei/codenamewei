@@ -14,9 +14,9 @@
 
 
 ### 🗂️ Latest Blog Posts
+- [Youtube to Text with Speech Recognition in Python](https://towardsdatascience.com/youtube-to-text-with-speech-recognition-in-python-cd47d6d98b16?sk=be41e705c8b182795712a70419a5b8d0)
 - [The Perks of using Jupyter Notebook in VS Code](https://medium.com/geekculture/the-perks-of-using-jupyter-notebook-in-vs-code-c68c6a022a9e?sk=b7fd0ccdb14523360fcc8c22a848a726)
 - [A Step-by-step Walkthrough to Create Your First SSH Config File](https://betterprogramming.pub/a-step-by-step-walkthrough-to-create-your-first-ssh-config-file-f01267b4eacb?sk=41a27dff0cae894617024ea6a0aad25a)
-- [Upskill as a working adult in the data science field](https://towardsdatascience.com/upskill-as-a-working-adult-in-the-data-science-field-c51da3d07006?sk=536f7b22ff843149075c56aabcc0c533)
 - [Displaying visuals with Markdown](https://medium.com/geekculture/displaying-visuals-with-markdown-c39f2495e146)
 - [Access remote code in a breeze with JupyterLab via SSH](https://towardsdatascience.com/access-remote-code-in-a-breeze-with-jupyterlab-via-ssh-8c6a9ffaaa8c)
 
