@@ -6,11 +6,8 @@
 ### 🥊 Interests
 
 - **Big Data**
-- **MLOps**
-- **Natural Language Processing**
+- **Natural Language Processing (Text, Audio)**
 - **Backend Development**
-- **Machine Learning**
-- **Deep Learning**
 
 
 ### 🗂️ Latest Blog Posts
