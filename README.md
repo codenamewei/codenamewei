@@ -11,11 +11,11 @@
 
 
 ### 🗂️ Latest Blog Posts
+- [Understand Audio Data with Computer Vision Background](https://towardsdatascience.com/understand-audio-data-with-computer-vision-background-ee2a002108b2?sk=791a43c9b61e6d9c18d8fb7d13477f16)
 - [Youtube to Text with Speech Recognition in Python](https://towardsdatascience.com/youtube-to-text-with-speech-recognition-in-python-cd47d6d98b16?sk=be41e705c8b182795712a70419a5b8d0)
 - [The Perks of using Jupyter Notebook in VS Code](https://medium.com/geekculture/the-perks-of-using-jupyter-notebook-in-vs-code-c68c6a022a9e?sk=b7fd0ccdb14523360fcc8c22a848a726)
 - [A Step-by-step Walkthrough to Create Your First SSH Config File](https://betterprogramming.pub/a-step-by-step-walkthrough-to-create-your-first-ssh-config-file-f01267b4eacb?sk=41a27dff0cae894617024ea6a0aad25a)
 - [Displaying visuals with Markdown](https://medium.com/geekculture/displaying-visuals-with-markdown-c39f2495e146)
-- [Access remote code in a breeze with JupyterLab via SSH](https://towardsdatascience.com/access-remote-code-in-a-breeze-with-jupyterlab-via-ssh-8c6a9ffaaa8c)
 
 ### 🧰 Tools
 
