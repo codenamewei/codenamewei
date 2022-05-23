@@ -27,7 +27,6 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 **Dependency Managers**
@@ -38,10 +37,11 @@
 ![Chocolatey](https://img.shields.io/badge/-Chocolatey-05122A?style=flat&logo=chocolatey)
 
 **Data Science Libraries and Tools**
-
+  
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-05122A?style=flat&logo=huggingface)
+![Gradio](https://img.shields.io/badge/-Gradio-05122A?style=flat&logo=gradio)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-05122A?style=flat&logo=huggingface)
 ![Opencv](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)
 ![Pillow](https://img.shields.io/badge/-Pillow-05122A?style=flat&logo=pillow)
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)
@@ -55,6 +55,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Fast API](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Vertx](https://img.shields.io/badge/-Vertx-05122A?style=flat&logo=vertx)
+
 
 **Public Clouds**
 
@@ -84,8 +86,6 @@
 ![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm)
 ![Intellij](https://img.shields.io/badge/-Intellij-05122A?style=flat&logo=jetbrains)
 ![Jupyter Lab](https://img.shields.io/badge/-Jupyter%20Lab-05122A?style=flat&logo=jupyter)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab)
-![R Studio](https://img.shields.io/badge/-R%20Studio-05122A?style=flat&logo=rstudio)
 
 **Operating Systems**
   
@@ -100,26 +100,17 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket)
 
-**Softwares**
-  
+**Customer Relationship Management (CRM)**
+
+![Microsoft Dynamics](https://img.shields.io/badge/-MicrosoftDynamics-05122A?style=flat&logo=Dynamics)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-05122A?style=flat&logo=salesforce)
-![Outlook](https://img.shields.io/badge/-Outlook-05122A?style=flat&logo=microsoft)
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
-![Google Suite](https://img.shields.io/badge/-GoogleSuite-05122A?style=flat&logo=google)
 ![Hubspot](https://img.shields.io/badge/-Hubspot-05122A?style=flat&logo=hubspot)
-![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)
-![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)
   
 **Project Management**
   
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)
 ![Teamwork](https://img.shields.io/badge/-Teamwork-05122A?style=flat&logo=teamwork)  
-  
-**Others**
-
-![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence)\
-![Vertx](https://img.shields.io/badge/-Vertx-05122A?style=flat&logo=vertx)
-
+ 
 
 </details>
 
