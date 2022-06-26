@@ -17,7 +17,22 @@
 - [A Step-by-step Walkthrough to Create Your First SSH Config File](https://betterprogramming.pub/a-step-by-step-walkthrough-to-create-your-first-ssh-config-file-f01267b4eacb?sk=41a27dff0cae894617024ea6a0aad25a)
 - [Displaying visuals with Markdown](https://medium.com/geekculture/displaying-visuals-with-markdown-c39f2495e146)
 
-### 🧰 Tools
+
+### 🤖 Machine Learning Models 
+
+<details>
+  <summary>Expand for details</summary>
+  
+#### 👁️ Vision 
+- **MT-CNN**: Face Detection & Alignment
+
+#### 👂 Audio
+- **Wav2Vec2-CTC**: Speech-to-Text (2022)
+- **Wav2Vec2-Conformer**: Speech-to-Text (2022)
+
+</details>
+
+### 🧰 Toolbox
 
 <details>
   <summary>Expand for details</summary>
