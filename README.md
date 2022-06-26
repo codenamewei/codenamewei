@@ -27,8 +27,8 @@
 - **MT-CNN**: Face Detection & Alignment
 
 #### 👂 Audio
-- **Wav2Vec2-CTC**: Speech-to-Text (2022)
-- **Wav2Vec2-Conformer**: Speech-to-Text (2022)
+- **Wav2Vec2-CTC**: Speech-to-Text
+- **Wav2Vec2-Conformer**: Speech-to-Text
 
 </details>
 
