@@ -12,12 +12,9 @@
 
 ### 🗂️ [Tech Blog](https://codenamewei.github.io/)
 
-
-### 🗂️ <a href="https://codenamewei.github.io/" title="Tech Blog" target="_blank">Tech Blog</a>
-
 - [Understand Audio Data with Computer Vision Background](https://codenamewei.github.io/understand-audio-data-with-computer-vision-background/)
-- [Youtube to Text with Speech Recognition in Python](https://towardsdatascience.com/youtube-to-text-with-speech-recognition-in-python-cd47d6d98b16?sk=be41e705c8b182795712a70419a5b8d0)
-- [The Perks of using Jupyter Notebook in VS Code](https://medium.com/geekculture/the-perks-of-using-jupyter-notebook-in-vs-code-c68c6a022a9e?sk=b7fd0ccdb14523360fcc8c22a848a726)
+- [Youtube to Text with Speech Recognition in Python](https://codenamewei.github.io/youtube-to-text-with-speech-recognition-in-python/)
+- [The Perks of using Jupyter Notebook in VS Code](https://codenamewei.github.io/the-perks-of-using-jupyter-notebook-in-vs-code/)
 - [A Step-by-step Walkthrough to Create Your First SSH Config File](https://betterprogramming.pub/a-step-by-step-walkthrough-to-create-your-first-ssh-config-file-f01267b4eacb?sk=41a27dff0cae894617024ea6a0aad25a)
 - [Displaying visuals with Markdown](https://medium.com/geekculture/displaying-visuals-with-markdown-c39f2495e146)
 
