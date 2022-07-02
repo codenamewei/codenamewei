@@ -11,6 +11,10 @@
 
 
 ### 🗂️ [Tech Blog](https://codenamewei.github.io/)
+
+
+### 🗂️ <a href="https://codenamewei.github.io/" title="Tech Blog" target="_blank">Tech Blog</a>
+
 - [Understand Audio Data with Computer Vision Background](https://codenamewei.github.io/understand-audio-data-with-computer-vision-background/)
 - [Youtube to Text with Speech Recognition in Python](https://towardsdatascience.com/youtube-to-text-with-speech-recognition-in-python-cd47d6d98b16?sk=be41e705c8b182795712a70419a5b8d0)
 - [The Perks of using Jupyter Notebook in VS Code](https://medium.com/geekculture/the-perks-of-using-jupyter-notebook-in-vs-code-c68c6a022a9e?sk=b7fd0ccdb14523360fcc8c22a848a726)
