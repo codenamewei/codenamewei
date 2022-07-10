@@ -79,6 +79,9 @@
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Vertx](https://img.shields.io/badge/-Vertx-05122A?style=flat&logo=vertx)
 
+**Distributed System**
+![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=docker)&nbsp;
+![Zookeeper](https://img.shields.io/badge/-Zookeeper-05122A?style=flat&logo=fastapi)&nbsp;
 
 **Public Clouds**
 
