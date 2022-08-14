@@ -16,7 +16,6 @@
 - [Youtube to Text with Speech Recognition in Python](https://codenamewei.github.io/youtube-to-text-with-speech-recognition-in-python/)
 - [The Perks of using Jupyter Notebook in VS Code](https://codenamewei.github.io/the-perks-of-using-jupyter-notebook-in-vs-code/)
 - [A Step-by-step Walkthrough to Create Your First SSH Config File](https://betterprogramming.pub/a-step-by-step-walkthrough-to-create-your-first-ssh-config-file-f01267b4eacb?sk=41a27dff0cae894617024ea6a0aad25a)
-- [Displaying visuals with Markdown](https://medium.com/geekculture/displaying-visuals-with-markdown-c39f2495e146)
 
 
 ### 🤖 Machine Learning Models 
