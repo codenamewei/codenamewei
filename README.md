@@ -11,7 +11,7 @@
 
 
 ### 🗂️ [Tech Blog](https://codenamewei.github.io/)
-
+- [The Epiphany: Moving from A Startup to A 100 Years Old Corporate](https://codenamewei.github.io/startup-to-corporate/)
 - [Understand Audio Data with Computer Vision Background](https://codenamewei.github.io/understand-audio-data-with-computer-vision-background/)
 - [Youtube to Text with Speech Recognition in Python](https://codenamewei.github.io/youtube-to-text-with-speech-recognition-in-python/)
 - [The Perks of using Jupyter Notebook in VS Code](https://codenamewei.github.io/the-perks-of-using-jupyter-notebook-in-vs-code/)
