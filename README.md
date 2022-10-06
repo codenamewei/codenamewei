@@ -1,5 +1,4 @@
-
-<img src="metadata/hello.gif" width="30">Hello World, I am **codenamewei**.<br />
+<br> Hello world.<br />
 
 <img width=400 alt="Coding" src="https://i.pinimg.com/originals/c9/7d/6d/c97d6d2a2c5093b7805b15fd6e4b49e1.gif" align="right"/>
 
