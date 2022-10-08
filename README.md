@@ -24,7 +24,7 @@
   
 #### 👁️ Vision 
 - **MT-CNN**: Face Detection & Alignment
-- **Deepfake*: Face Swapping
+- **Deepfake**: Face Swapping
 
 #### 👂 Audio
 - **Wav2Vec2-CTC**: Speech-to-Text
