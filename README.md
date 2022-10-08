@@ -24,10 +24,15 @@
   
 #### 👁️ Vision 
 - **MT-CNN**: Face Detection & Alignment
+- **Deepfake*: Face Swapping
 
 #### 👂 Audio
 - **Wav2Vec2-CTC**: Speech-to-Text
 - **Wav2Vec2-Conformer**: Speech-to-Text
+
+#### 👂 Audio & 👁️ Vision 
+- **Wav2Lip**: Lip synching with speech <> video
+
 
 </details>
 
