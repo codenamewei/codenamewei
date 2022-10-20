@@ -48,6 +48,15 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 
+**Cluster Management**  
+![Zookeeper](https://img.shields.io/badge/-Zookeeper-05122A?style=flat&logo=zookeeper)&nbsp;
+
+**Messaging Queue**  
+![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=kafka)
+
+**In-Memory Database**  
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis)
+
 **Front-End**  
 ![Hugo](https://img.shields.io/badge/-Hugo-05122A?style=flat&logo=hugo)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML)
@@ -82,10 +91,6 @@
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Vertx](https://img.shields.io/badge/-Vertx-05122A?style=flat&logo=vertx)
 
-**Distributed System**  
-
-![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=kafka)&nbsp;
-![Zookeeper](https://img.shields.io/badge/-Zookeeper-05122A?style=flat&logo=zookeeper)&nbsp;
 
 **Public Clouds**
 
