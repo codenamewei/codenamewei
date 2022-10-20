@@ -49,12 +49,15 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 **Cluster Management**  
+  
 ![Zookeeper](https://img.shields.io/badge/-Zookeeper-05122A?style=flat&logo=zookeeper)&nbsp;
 
 **Messaging Queue**  
+  
 ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=kafka)
 
 **In-Memory Database**  
+  
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis)
 
 **Front-End**  
