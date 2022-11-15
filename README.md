@@ -23,7 +23,7 @@
   <summary>Expand for details</summary>
   
 #### 👁️ Vision 
-- **MT-CNN**: Face Detection & Alignment
+- **MT-CNN (Multi-task Cascaded Neural Network)**: Face Detection & Alignment, Face Landmarks 
 - **Deepfake**: Face Swapping
 
 #### 👂 Audio
