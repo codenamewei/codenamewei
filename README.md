@@ -28,6 +28,7 @@
   <summary>Expand for details</summary>
   
 #### 👁️ Vision 
+- Viola Jones: Face / Object Detection
 - **MT-CNN (Multi-task Cascaded Neural Network)**: Face Detection & Alignment, Face Landmarks 
 - **Deepfake**: Face Swapping
 
