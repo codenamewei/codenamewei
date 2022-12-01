@@ -31,6 +31,7 @@
 - Viola Jones: Face / Object Detection
 - **MT-CNN (Multi-task Cascaded Neural Network)**: Face Detection & Alignment, Face Landmarks 
 - **Deepfake**: Face Swapping
+- **YOLO**: Object Detection
 
 #### 👂 Audio
 - **Wav2Vec2-CTC**: Speech-to-Text
