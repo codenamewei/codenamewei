@@ -67,6 +67,11 @@
   
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis)
 
+  
+**Dashboard**  
+  
+![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana)
+
 **Front-End**  
 ![Hugo](https://img.shields.io/badge/-Hugo-05122A?style=flat&logo=hugo)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML)
@@ -109,7 +114,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)
 ![Digital Ocean](https://img.shields.io/badge/-DigitalOcean-05122A?style=flat&logo=digitalocean)
   
-**Query**
+**Database**
  
 ![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=google)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
