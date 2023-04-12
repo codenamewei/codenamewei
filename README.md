@@ -27,11 +27,14 @@
 <details>
   <summary>Expand for details</summary>
   
-#### 👁️ Vision 
-- Viola Jones: Face / Object Detection
-- **MT-CNN (Multi-task Cascaded Neural Network)**: Face Detection & Alignment, Face Landmarks 
+#### 👁️ Vision  
+- **Segment Anything Model (SAM)**: Segmentation without/with (box/point) prompt
 - **Deepfake**: Face Swapping
+- **Multi-task Cascaded Neural Network (MT-CNN)**: Face Detection & Alignment, Face Landmarks 
 - **YOLO**: Object Detection
+- Viola Jones: Face / Object Detection
+
+
 
 #### 👂 Audio
 - **Wav2Vec2-CTC**: Speech-to-Text
