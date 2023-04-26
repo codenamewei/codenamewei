@@ -1,6 +1,8 @@
 <br> Hello world.<br />
 
-<img width=400 alt="Coding" src="https://i.pinimg.com/originals/c9/7d/6d/c97d6d2a2c5093b7805b15fd6e4b49e1.gif" align="right"/>
+<img src="https://user-images.githubusercontent.com/33477318/234498172-6ef8788a-682c-40a0-8c00-9d64824713dc.png" width="500">
+
+
 
 ### 🥊 Focus Area
 
