@@ -67,6 +67,10 @@
 **Messaging Queue**  
   
 ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=kafka)
+  
+**REST**  
+  
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 
 **In-Memory Database**  
   
