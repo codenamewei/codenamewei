@@ -1,6 +1,5 @@
 <br> Hello world.<br />
 
-<img src="https://user-images.githubusercontent.com/33477318/234498172-6ef8788a-682c-40a0-8c00-9d64824713dc.png" width="500">
 
 
 
