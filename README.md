@@ -1,8 +1,5 @@
 <br> Hello world.<br />
 
-
-
-
 ### 🥊 Focus Area
 
 - **Computer Vision**
@@ -23,6 +20,9 @@
 <img src="https://user-images.githubusercontent.com/33477318/202058061-bf50970e-5912-47f3-8b4b-da4e2ba43c25.png" width="500">
 
 
+### Cloud Computing
+- [Google Cloud Platform Badges](https://www.cloudskillsboost.google/public_profiles/20c337db-714a-4a79-854f-9a909ac75fe5)
+  
 ### 🤖 Machine Learning Models 
 
 <details>
