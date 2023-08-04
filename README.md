@@ -30,6 +30,7 @@
   
 #### 👁️ Vision  
 - **Segment Anything Model (SAM)**: Segmentation without/with (box/point) prompt
+- [**Tapir: Tracking Any Point with per-frame Initialization and temporal Refinement**:](https://deepmind-tapir.github.io/) Tracking 
 - **Deepfake**: Face Swapping
 - **Multi-task Cascaded Neural Network (MT-CNN)**: Face Detection & Alignment, Face Landmarks 
 - **YOLO**: Object Detection
