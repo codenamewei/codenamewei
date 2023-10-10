@@ -109,9 +109,17 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)
 ![Deeplearning4j](https://img.shields.io/badge/-Deeplearning4j-05122A?style=flat&logo=dl4j)
 
-**Deployment**
+**Containerization**
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+
+**Orchestration**
+
+
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+
+**Microservices**
+
 ![Fast API](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
