@@ -15,11 +15,6 @@
 - [The Perks of using Jupyter Notebook in VS Code](https://codenamewei.github.io/the-perks-of-using-jupyter-notebook-in-vs-code/)
 - [A Step-by-step Walkthrough to Create Your First SSH Config File](https://betterprogramming.pub/a-step-by-step-walkthrough-to-create-your-first-ssh-config-file-f01267b4eacb?sk=41a27dff0cae894617024ea6a0aad25a)
 
-### 🔧 Tech Stack
-
-<img src="https://user-images.githubusercontent.com/33477318/202058061-bf50970e-5912-47f3-8b4b-da4e2ba43c25.png" width="500">
-
-
 ### Cloud Computing
 - [Google Cloud Platform Badges](https://www.cloudskillsboost.google/public_profiles/20c337db-714a-4a79-854f-9a909ac75fe5)
   
