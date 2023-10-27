@@ -9,6 +9,7 @@
 
 
 ### 🗂️ [Tech Blog](https://codenamewei.github.io/)
+- [Part 1: Displaying Images in Jupyter Notebook](https://medium.com/better-programming/part-1-displaying-images-in-jupyter-notebook-50863b06af91)
 - [Deepfake Audio with Wav2Lip](https://codenamewei.github.io/deepfake-audio-with-wav2lip/)
 - [Understand Audio Data with Computer Vision Background](https://codenamewei.github.io/understand-audio-data-with-computer-vision-background/)
 - [Youtube to Text with Speech Recognition in Python](https://codenamewei.github.io/youtube-to-text-with-speech-recognition-in-python/)
