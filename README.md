@@ -9,12 +9,11 @@
 
 
 ### 🗂️ [Tech Blog](https://codenamewei.github.io/)
+- [Part 2: Displaying Videos in Jupyter Notebook](https://betterprogramming.pub/part-2-displaying-videos-in-jupyter-notebook-e9dda3bf1e20?sk=1b428e1f06a381badcb774209029d3dc)
 - [Part 1: Displaying Images in Jupyter Notebook](https://medium.com/better-programming/part-1-displaying-images-in-jupyter-notebook-50863b06af91)
 - [Deepfake Audio with Wav2Lip](https://codenamewei.github.io/deepfake-audio-with-wav2lip/)
 - [Understand Audio Data with Computer Vision Background](https://codenamewei.github.io/understand-audio-data-with-computer-vision-background/)
 - [Youtube to Text with Speech Recognition in Python](https://codenamewei.github.io/youtube-to-text-with-speech-recognition-in-python/)
-- [The Perks of using Jupyter Notebook in VS Code](https://codenamewei.github.io/the-perks-of-using-jupyter-notebook-in-vs-code/)
-- [A Step-by-step Walkthrough to Create Your First SSH Config File](https://betterprogramming.pub/a-step-by-step-walkthrough-to-create-your-first-ssh-config-file-f01267b4eacb?sk=41a27dff0cae894617024ea6a0aad25a)
 
 ### Cloud Computing
 - [Google Cloud Platform Badges](https://www.cloudskillsboost.google/public_profiles/20c337db-714a-4a79-854f-9a909ac75fe5)
