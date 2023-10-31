@@ -50,12 +50,16 @@
 <details>
   <summary>Expand for details</summary>
 
-**Back-End**
+**Language**
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+
+**Back-End**
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
 
 **Cluster Management**  
   
@@ -72,7 +76,6 @@
 **In-Memory Database**  
   
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis)
-
   
 **Dashboard**  
   
