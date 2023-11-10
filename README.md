@@ -14,7 +14,6 @@
 - [Part 1: Displaying Images in Jupyter Notebook](https://medium.com/better-programming/part-1-displaying-images-in-jupyter-notebook-50863b06af91)
 - [Deepfake Audio with Wav2Lip](https://codenamewei.github.io/deepfake-audio-with-wav2lip/)
 - [Understand Audio Data with Computer Vision Background](https://codenamewei.github.io/understand-audio-data-with-computer-vision-background/)
-- [Youtube to Text with Speech Recognition in Python](https://codenamewei.github.io/youtube-to-text-with-speech-recognition-in-python/)
 
 ### Cloud Computing
 - [Google Cloud Platform Badges](https://www.cloudskillsboost.google/public_profiles/20c337db-714a-4a79-854f-9a909ac75fe5)
