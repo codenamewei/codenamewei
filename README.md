@@ -9,6 +9,7 @@
 
 
 ### 🗂️ [Tech Blog](https://codenamewei.github.io/)
+- [Part 1: Managing Lifespan Events in FastAPI with Redis Example](https://medium.datadriveninvestor.com/part-1-managing-lifespan-events-in-fastapi-with-redis-example-a63db39bc5eb?sk=3919066e8995f02d250317296fbe7c10)
 - [Part 2: Displaying Videos in Jupyter Notebook](https://betterprogramming.pub/part-2-displaying-videos-in-jupyter-notebook-e9dda3bf1e20?sk=1b428e1f06a381badcb774209029d3dc)
 - [Part 1: Displaying Images in Jupyter Notebook](https://medium.com/better-programming/part-1-displaying-images-in-jupyter-notebook-50863b06af91)
 - [Deepfake Audio with Wav2Lip](https://codenamewei.github.io/deepfake-audio-with-wav2lip/)
