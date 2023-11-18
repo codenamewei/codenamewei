@@ -9,11 +9,11 @@
 
 
 ### 🗂️ [Tech Blog](https://codenamewei.github.io/)
+- [Performance Analysis: Read-In, Write-Out with Native IO, Pandas, Polars, and Modin](https://medium.datadriveninvestor.com/performance-analysis-read-in-write-out-with-native-io-pandas-polars-and-modin-c1f295e57e73?sk=fe2cdc69803ec85af2d310c2fd7dfc5a)
 - [Part 1: Managing Lifespan Events in FastAPI with Redis Example](https://medium.datadriveninvestor.com/part-1-managing-lifespan-events-in-fastapi-with-redis-example-a63db39bc5eb?sk=3919066e8995f02d250317296fbe7c10)
 - [Part 2: Displaying Videos in Jupyter Notebook](https://betterprogramming.pub/part-2-displaying-videos-in-jupyter-notebook-e9dda3bf1e20?sk=1b428e1f06a381badcb774209029d3dc)
 - [Part 1: Displaying Images in Jupyter Notebook](https://medium.com/better-programming/part-1-displaying-images-in-jupyter-notebook-50863b06af91)
 - [Deepfake Audio with Wav2Lip](https://codenamewei.github.io/deepfake-audio-with-wav2lip/)
-- [Understand Audio Data with Computer Vision Background](https://codenamewei.github.io/understand-audio-data-with-computer-vision-background/)
 
 ### Cloud Computing
 - [Google Cloud Platform Badges](https://www.cloudskillsboost.google/public_profiles/20c337db-714a-4a79-854f-9a909ac75fe5)
