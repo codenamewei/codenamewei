@@ -183,7 +183,6 @@
 ### 📩 Connect With Me
 
 Reach out if you have anything to ask (I'll be happy to help :zap:)  
-or would like to discuss about business opportunities surrounding technology
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/codenamewei"><img src="https://img.shields.io/badge/-codenamewei-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
