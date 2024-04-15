@@ -1,5 +1,5 @@
 <a href="https://github.com/devxb/gitanimals">
-    <img src = "https://render.gitanimals.org/lines/codenamewei?pet-id=1" width="1000" height="100"/>
+    <img src = "https://render.gitanimals.org/lines/codenamewei?pet-id=1" width="1000" height="200"/>
 </a>
 
 ### 🥊 Focus Area
