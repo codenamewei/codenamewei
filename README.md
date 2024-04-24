@@ -86,7 +86,8 @@
 ![Hugo](https://img.shields.io/badge/-Hugo-05122A?style=flat&logo=hugo)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS)
-![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)
+![Nextjs](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=Nextjs)
 
 **Dependency Managers**
 
@@ -131,6 +132,11 @@
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)
 ![Digital Ocean](https://img.shields.io/badge/-DigitalOcean-05122A?style=flat&logo=digitalocean)
+
+
+**Frontend Cloud Hosting Platform**
+
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
   
 **Database**
  
