@@ -13,7 +13,7 @@
 ### 🗂️ [Tech Blog](https://codenamewei.github.io/)
 - [Error Handling Strategy with Streamlit and FastAPI Implementation](https://open.substack.com/pub/codenamewei/p/error-handling-strategy-with-streamlit?r=5jsqh&utm_campaign=post&utm_medium=web)
 - [Performance Analysis: Read-In, Write-Out with Native IO, Pandas, Polars, and Modin](https://medium.datadriveninvestor.com/performance-analysis-read-in-write-out-with-native-io-pandas-polars-and-modin-c1f295e57e73?sk=fe2cdc69803ec85af2d310c2fd7dfc5a)
-- [Managing Lifespan Events in FastAPI with Redis Example](https://medium.datadriveninvestor.com/part-1-managing-lifespan-events-in-fastapi-with-redis-example-a63db39bc5eb?sk=3919066e8995f02d250317296fbe7c10)
+- [Managing Lifespan Events in FastAPI with Redis Example](https://open.substack.com/pub/codenamewei/p/managing-lifespan-events-in-fastapi?r=5jsqh&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 - [Part 2: Displaying Videos in Jupyter Notebook](https://betterprogramming.pub/part-2-displaying-videos-in-jupyter-notebook-e9dda3bf1e20?sk=1b428e1f06a381badcb774209029d3dc)
 - [Part 1: Displaying Images in Jupyter Notebook](https://medium.com/better-programming/part-1-displaying-images-in-jupyter-notebook-50863b06af91)
 
