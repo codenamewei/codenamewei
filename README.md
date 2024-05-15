@@ -19,7 +19,7 @@
 
 ### 📩 Connect With Me
 
-Reach out if you would like to to connect professionally. 
+Reach out if you would like to connect professionally. 
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/codenamewei"><img src="https://img.shields.io/badge/-codenamewei-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
