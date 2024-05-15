@@ -15,7 +15,7 @@
 - [Performance Analysis: Read-In, Write-Out with Native IO, Pandas, Polars, and Modin](https://open.substack.com/pub/codenamewei/p/performance-analysis-read-in-write?r=5jsqh&utm_campaign=post&utm_medium=web)
 - [Managing Lifespan Events in FastAPI with Redis Example](https://open.substack.com/pub/codenamewei/p/managing-lifespan-events-in-fastapi?r=5jsqh&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 - [Part 2: Displaying Videos in Jupyter Notebook](https://betterprogramming.pub/part-2-displaying-videos-in-jupyter-notebook-e9dda3bf1e20?sk=1b428e1f06a381badcb774209029d3dc)
-- [Part 1: Displaying Images in Jupyter Notebook](https://medium.com/better-programming/part-1-displaying-images-in-jupyter-notebook-50863b06af91)
+- [Part 1: Displaying Images in Jupyter Notebook](https://open.substack.com/pub/codenamewei/p/part-1-displaying-images-in-jupyter?r=5jsqh&utm_campaign=post&utm_medium=web)
 
 ### Cloud Computing
 - [Google Cloud Platform Badges](https://www.cloudskillsboost.google/public_profiles/20c337db-714a-4a79-854f-9a909ac75fe5)
