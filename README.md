@@ -14,7 +14,7 @@
 - [Error Handling Strategy with Streamlit and FastAPI Implementation](https://open.substack.com/pub/codenamewei/p/error-handling-strategy-with-streamlit?r=5jsqh&utm_campaign=post&utm_medium=web)
 - [Performance Analysis: Read-In, Write-Out with Native IO, Pandas, Polars, and Modin](https://open.substack.com/pub/codenamewei/p/performance-analysis-read-in-write?r=5jsqh&utm_campaign=post&utm_medium=web)
 - [Managing Lifespan Events in FastAPI with Redis Example](https://open.substack.com/pub/codenamewei/p/managing-lifespan-events-in-fastapi?r=5jsqh&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
-- [Part 2: Displaying Videos in Jupyter Notebook](https://betterprogramming.pub/part-2-displaying-videos-in-jupyter-notebook-e9dda3bf1e20?sk=1b428e1f06a381badcb774209029d3dc)
+- [Part 2: Displaying Videos in Jupyter Notebook](https://open.substack.com/pub/codenamewei/p/part-2-displaying-videos-in-jupyter?r=5jsqh&utm_campaign=post&utm_medium=web)
 - [Part 1: Displaying Images in Jupyter Notebook](https://open.substack.com/pub/codenamewei/p/part-1-displaying-images-in-jupyter?r=5jsqh&utm_campaign=post&utm_medium=web)
 
 ### Cloud Computing
