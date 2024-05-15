@@ -1,16 +1,15 @@
-<a href="https://github.com/devxb/gitanimals">
-    <img src = "https://render.gitanimals.org/lines/codenamewei?pet-id=1" width="1000" height="200"/>
-</a>
+
 
 ### 🥊 Focus Area
 
 - **Computer Vision**
 - **Natural Language Processing (Text, Audio)**
 - **Backend Development**
+- **Machine Learning System**
 - **System Design**
 
 
-### 🗂️ [Tech Blog](https://codenamewei.github.io/)
+### 🗂️ [Tech Blog](https://codenamewei.substack.com/)
 - [Error Handling Strategy with Streamlit and FastAPI Implementation](https://open.substack.com/pub/codenamewei/p/error-handling-strategy-with-streamlit?r=5jsqh&utm_campaign=post&utm_medium=web)
 - [Performance Analysis: Read-In, Write-Out with Native IO, Pandas, Polars, and Modin](https://open.substack.com/pub/codenamewei/p/performance-analysis-read-in-write?r=5jsqh&utm_campaign=post&utm_medium=web)
 - [Managing Lifespan Events in FastAPI with Redis Example](https://open.substack.com/pub/codenamewei/p/managing-lifespan-events-in-fastapi?r=5jsqh&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
