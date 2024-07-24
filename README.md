@@ -1,5 +1,3 @@
-
-
 ### 🥊 Focus Area
 
 - **Computer Vision**
@@ -8,8 +6,8 @@
 - **Machine Learning System**
 - **System Design**
 
-
 ### 🗂️ [Tech Blog](https://codenamewei.substack.com/)
+
 - [Error Handling Strategy with Streamlit and FastAPI Implementation](https://open.substack.com/pub/codenamewei/p/error-handling-strategy-with-streamlit?r=5jsqh&utm_campaign=post&utm_medium=web)
 - [Performance Analysis: Read-In, Write-Out with Native IO, Pandas, Polars, and Modin](https://open.substack.com/pub/codenamewei/p/performance-analysis-read-in-write?r=5jsqh&utm_campaign=post&utm_medium=web)
 - [Managing Lifespan Events in FastAPI with Redis Example](https://open.substack.com/pub/codenamewei/p/managing-lifespan-events-in-fastapi?r=5jsqh&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
@@ -17,9 +15,10 @@
 - [Part 1: Displaying Images in Jupyter Notebook](https://open.substack.com/pub/codenamewei/p/part-1-displaying-images-in-jupyter?r=5jsqh&utm_campaign=post&utm_medium=web)
 
 ### Cloud Computing
+
 - [Google Cloud Platform Badges](https://www.cloudskillsboost.google/public_profiles/20c337db-714a-4a79-854f-9a909ac75fe5)
-  
-### 🤖 Machine Learning Models 
+
+### 🤖 Machine Learning Models
 
 <details>
   <summary>Expand for details</summary>
@@ -33,32 +32,30 @@
 - **YOLO**: Object Detection
 - Viola Jones: Face / Object Detection
 
-
-
 #### 👂 Audio
+
 - **Wav2Vec2-CTC**: Speech-to-Text
 - **Wav2Vec2-Conformer**: Speech-to-Text
 
-#### 👂 Audio & 👁️ Vision 
-- **Wav2Lip**: Lip synching with speech <> video
+#### 👂 Audio & 👁️ Vision
 
+- **Wav2Lip**: Lip synching with speech <> video
 
 </details>
 
 ### 🧰 Toolbox (2024)
 
-**Dashboard**  
-  
-![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana)
+**Dashboard**
 
+![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana)
 
 **Monitoring**  
 ![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=Prometheus)
 
 **Orchestration**
 
-
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![Minikube](https://img.shields.io/badge/-Minikube-05122A?style=flat&logo=minikube)&nbsp;
 ![MicroK8s](https://img.shields.io/badge/-Microk8s-05122A?style=flat&logo=Microk8s)&nbsp;
 ![Helm](https://img.shields.io/badge/-Helm-05122A?style=flat&logo=helm)&nbsp;
 
@@ -78,24 +75,24 @@
 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
 
-**Cluster Management**  
-  
+**Cluster Management**
+
 ![Zookeeper](https://img.shields.io/badge/-Zookeeper-05122A?style=flat&logo=zookeeper)&nbsp;
 
-**Messaging Queue**  
-  
+**Messaging Queue**
+
 ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=kafka)
-  
-**REST**  
-  
+
+**REST**
+
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 
-**In-Memory Database**  
-  
+**In-Memory Database**
+
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis)
-  
-**Dashboard**  
-  
+
+**Dashboard**
+
 ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana)
 
 **Front-End**  
@@ -113,7 +110,7 @@
 ![Chocolatey](https://img.shields.io/badge/-Chocolatey-05122A?style=flat&logo=chocolatey)
 
 **Data Science Libraries and Tools**
-  
+
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-05122A?style=flat&logo=huggingface)
 ![Gradio](https://img.shields.io/badge/-Gradio-05122A?style=flat&logo=gradio)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch)
@@ -132,7 +129,6 @@
 
 **Orchestration**
 
-
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 
 **Microservices**
@@ -142,29 +138,27 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
 ![Vertx](https://img.shields.io/badge/-Vertx-05122A?style=flat&logo=vertx)
 
-
 **Public Clouds**
 
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)
 ![Digital Ocean](https://img.shields.io/badge/-DigitalOcean-05122A?style=flat&logo=digitalocean)
 
-
 **Frontend Cloud Hosting Platform**
 
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
-  
+
 **Database**
- 
+
 ![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=google)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 
 **Automation**
-  
+
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)
 ![UiPath](https://img.shields.io/badge/-UiPath-05122A?style=flat&logo=uipath)
-  
+
 **DevOps**
 
 ![Github Actions](https://img.shields.io/badge/-GithubActions-05122A?style=flat&logo=github)
@@ -178,12 +172,12 @@
 ![Jupyter Lab](https://img.shields.io/badge/-Jupyter%20Lab-05122A?style=flat&logo=jupyter)
 
 **Operating Systems**
-  
+
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=microsoft)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 ![Centos](https://img.shields.io/badge/-Centos-05122A?style=flat&logo=centos)
 ![Mac](https://img.shields.io/badge/-Mac-05122A?style=flat&logo=apple)
-  
+
 **Code Versioning**
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
@@ -195,22 +189,20 @@
 ![Microsoft Dynamics](https://img.shields.io/badge/-MicrosoftDynamics-05122A?style=flat&logo=Dynamics)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-05122A?style=flat&logo=salesforce)
 ![Hubspot](https://img.shields.io/badge/-Hubspot-05122A?style=flat&logo=hubspot)
-  
+
 **Project Management**
-  
+
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)
-![Teamwork](https://img.shields.io/badge/-Teamwork-05122A?style=flat&logo=teamwork)  
- 
+![Teamwork](https://img.shields.io/badge/-Teamwork-05122A?style=flat&logo=teamwork)
 
 </details>
 
 ### 📩 Connect With Me
 
-Reach out if you have anything to ask (I'll be happy to help :zap:)  
+Reach out if you have anything to ask (I'll be happy to help :zap:)
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/codenamewei"><img src="https://img.shields.io/badge/-codenamewei-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/codenamewei_"><img src="https://img.shields.io/badge/-@codenamewei__-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="mailto:codenamewei@gmail.com"><img src="https://img.shields.io/badge/-codenamewei@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
